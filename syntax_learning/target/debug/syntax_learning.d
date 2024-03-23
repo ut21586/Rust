@@ -1,0 +1,1 @@
+/Users/easonzhou/Library/Mobile\ Documents/com~apple~CloudDocs/Rust/syntax_learning/target/debug/syntax_learning: /Users/easonzhou/Library/Mobile\ Documents/com~apple~CloudDocs/Rust/syntax_learning/src/main.rs

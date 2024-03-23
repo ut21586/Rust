@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./syntax_learning/Cargo.toml",
+        "./syntax_learning/Cargo.toml"
+    ]
+}
