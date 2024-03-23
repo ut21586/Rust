@@ -1,0 +1,1 @@
+/Users/easonzhou/Library/Mobile\ Documents/com~apple~CloudDocs/Rust/syntax_learning/target/debug/guessing_game: /Users/easonzhou/Library/Mobile\ Documents/com~apple~CloudDocs/Rust/syntax_learning/guessing_game/src/main.rs
