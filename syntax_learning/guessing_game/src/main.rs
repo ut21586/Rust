@@ -23,8 +23,7 @@ fn main() {
     println!("You guessed:{guess}");
 
     // check if guess == machine random then return "correct" otherwise return "wrong"
-
-
+    //
     //println!("Hello, world!");
 }
 
